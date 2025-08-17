@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MERRITT'S SERVICES</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #feecc7; /* tan */
+            background-image: linear-gradient(45deg, #ffffff 25%, transparent 25%),
+                              linear-gradient(-45deg, #feecc7 25%, transparent 25%),
+                              linear-gradient(45deg, transparent 75%, #ffffff 75%),
+                              linear-gradient(-45deg, transparent 75%, #ffffff 75%);
+            background-size: 40px 40px; /* size of checkers */
+            background-position: 0 0, 0 20px, 20px -20px, -20px 0px;
+            color: black;
+            text-align: center;
+            padding: 50px 20px;
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 30px;
+        }
+
+        p {
+            font-size: 1.2rem;
+            max-width: 600px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>MERRITT'S SERVICE</h1>
+    <p>    Hi! Im currently trapped in the Nether right now, so I can build you anything you want in the Nether, just stop by or give me a call.</p>
+</body>
+</html>
